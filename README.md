@@ -1,6 +1,10 @@
 # LPS-YOLO
 This repository contains a selection of experimental data used to validate the results presented in our research paper on LPS-YOLO. The data are organised in a manner that facilitates convenient access and validation of the results, as they are stored in a format that includes the training and validation outputs of various YOLO-based models. Furthermore, we provide download links to the open source datasets used in this repository.
-Please note that the original link, https://github.com/23302093/LPS-YOLO-Training-dataset-and-experimental-result-data-repository, is no longer valid, as the account in question has been frozen and is therefore unavailable.
+
+
+Please note that the original link, https://github.com/23302093/LPS-YOLO-Training-dataset-and-experimental-result-data-repository, is no longer valid, as the account in question has been frozen and is therefore unavailable. We have also optimised the data structure for easier viewing.
+
+
 ## Abstract
 {Detecting small targets in UAV remote sensing images is challenging for traditional lightweight methods due to difficulty in feature extraction and high background interference. We propose LPS-YOLO, which improves small target feature extraction while reducing computational complexity. Replacing the Conv backbone with SPDConv to retain fine-grained features, introduces the SKAPP module for better feature fusion, and incorporates the E-BiFPN and OFTP structures to efficiently preserve and transfer backbone information. Evaluation on the VisDrone2019 dataset shows a 17.3% increase in mean Average Precision (mAP) and a 42.5% reduction in parameters compared to the baseline. Additional experiments on the DOTAv2 dataset demonstrate the model’s robustness, with a 14.5% improvement in F1 score and a 14.9% increase in mAP over YOLOv8-n. LPS-YOLO offers an effective solution for multi-target detection in UAVs. 
 
