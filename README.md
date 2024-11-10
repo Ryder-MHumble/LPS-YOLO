@@ -14,6 +14,8 @@ The repository is structured into two main directories, each containing data fro
 
 This directory contains the results from the training phase of the models. It is subdivided into three specific subdirectories:
 
+- **Ablation**: Screenshots of the resultant data from the ablation experiments in the paper are provided.
+
 - **Train**: This directory is used to store screenshots of training result data for some of the models from the two open-source datasets.
 - ***VisDrone***
 - ***DOTAv2***
