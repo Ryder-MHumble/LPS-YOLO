@@ -1,4 +1,4 @@
-# LPS-YOLO
+# Lightweight Multidimensional Feature Enhancement Algorithm LPS-YOLO for UAV Remote Sensing Target Detection
 This repository contains a selection of experimental data used to validate the results presented in our research paper on LPS-YOLO. The data are organised in a manner that facilitates convenient access and validation of the results, as they are stored in a format that includes the training and validation outputs of various YOLO-based models. Furthermore, we provide download links to the open source datasets used in this repository.
 
 
